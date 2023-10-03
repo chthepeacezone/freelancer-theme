@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer 1 - Graphic Artist - User Experience Designer" 
-meta_author: LastName FirstName
+title: Cheryl Huish
+email: hello@cherylhuish.com.au
+url: https://cherylhuish.com.au
+description: "With over 25 years of experience Social Work and Nursing, Cheryl has worked in community health settings, public and private hospital settings, government, non-governmental organisations and private practice. She specialises in external supervision and career guidance, substance  & harm reduction and behaviour change models for individuals, groups and organisations."
+keywords: "Individualised Counselling, External Supervision, Workplace Mindfulness Training Programs, Emotion Coaching - Individuals and Organisations"
+skills: "Individualised Counselling - External Supervision - Workplace Mindfulness Training Programs - Emotion Coaching" 
+meta_author: Cheryl Huish
 
 # Google webmaster tools
 google_verify:
